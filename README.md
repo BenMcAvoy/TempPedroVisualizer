@@ -71,7 +71,7 @@ inside your robot code repo:
 bun run sync path/to/Auto.java
 ```
 
-(or `Auto.kt` — language is picked from the file extension). It listens on
+(or `Auto.kt` - language is picked from the file extension). It listens on
 `http://localhost:7777`. In the visualizer, click **Sync** in the header
 and hit **Sync now**.
 
